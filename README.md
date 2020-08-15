@@ -1,7 +1,8 @@
 ## @Jihyun22
 
 🔗 blog : [jihyun22.github.io](https://Jihyun22.github.io)  
-🔗 Portfolio : [노션 링크](https://www.notion.so/Getting-Started-11ce4a8c27eb4e2083d9a73a3299a98d) 
+🔗 Portfolio : [노션 링크](https://www.notion.so/Getting-Started-11ce4a8c27eb4e2083d9a73a3299a98d)  
+🔗 Subject : ```data-mining``` ```machine-learning``` ```python```
 
 <br/>
 
