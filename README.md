@@ -20,6 +20,5 @@
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=jihyun22/jihyun22" alt="visitor"/>
-  <!--  ![visitors](https://visitor-badge.glitch.me/badge?page_id=jihyun22/jihyun22) -->
 </p>
 
