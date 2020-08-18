@@ -7,7 +7,7 @@
 
 
 
-📌 주 언어는 <code><img height="25" src="https://github.com/Jihyun22/Jihyun22.github.io/blob/master/assets/images/python.png?raw=true">python</code>  이고, 개발환경은 주로 <code><img height="25" src="https://github.com/Jihyun22/Jihyun22.github.io/blob/master/assets/images/jupyter.png?raw=true">jupyter</code>, <code><img height="25" src="https://github.com/Jihyun22/Jihyun22.github.io/blob/master/assets/images/goormIDE_logo.png?raw=true">goorm ide</code> 를 이용합니다
+📌 주 언어는 <code><img height="25" src="https://github.com/Jihyun22/Jihyun22.github.io/blob/master/assets/images/python.png?raw=true">python</code>  이고, 개발환경은 주로 <code><img height="25" src="https://github.com/Jihyun22/Jihyun22.github.io/blob/master/assets/images/jupyter.png?raw=true">jupyter</code>, <code><img height="25" src="https://github.com/Jihyun22/Jihyun22.github.io/blob/master/assets/images/goormIDE_logo.png?raw=true">goormIDE</code> 를 이용합니다
 
 📌 머신러닝 프레임워크인 <code><img height="25" src="https://github.com/Jihyun22/Jihyun22.github.io/blob/master/assets/images/scikitlearn.png?raw=true">Scikit-Learn</code>,  <code><img height="25" src="https://github.com/Jihyun22/Jihyun22.github.io/blob/master/assets/images/tensorflow.png?raw=true">tensorflow</code>를 공부하고 있습니다
 
