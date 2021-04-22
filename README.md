@@ -3,7 +3,7 @@
 🔗 Blog : [jihyun22.github.io](https://jihyun22.github.io)  
 🔗 Portfolio : [github.com/Jihyun22](https://github.com/Jihyun22)  
 🔗 E-mail : jih020202@gmail.com  
-🔗 Subject : ```data-mining``` ```machine-learning``` ```python```
+🔗 Subject : ```data-mining``` ```machine-learning``` ```python``` ```data-science```
 
 
 
