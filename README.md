@@ -1,5 +1,7 @@
 ## @Jihyun22
 
+### 2023.ver START
+
 🔗 Blog : [jihyun22.github.io](https://jihyun22.github.io)  
 🔗 Portfolio : [github.com/Jihyun22](https://github.com/Jihyun22)  
 🔗 E-mail : jih020202@gmail.com  
