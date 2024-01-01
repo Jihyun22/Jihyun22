@@ -1,10 +1,12 @@
 ## @Jihyun22
 
-### 2023.ver START
+### 2024.ver START
 
-🔗 Blog : [jihyun22.github.io](https://jihyun22.github.io)  
+🔗 Blog : [kwonji.tistory.com/](https://kwonji.tistory.com/)  
+🔗 LinkedIn : [github.com/Jihyun22](https://github.com/Jihyun22)  
 🔗 Portfolio : [github.com/Jihyun22](https://github.com/Jihyun22)  
-🔗 E-mail : jih020202@gmail.com  
+🔗 Hugging Face : [huggingface.co/Jihyun22](https://huggingface.co/Jihyun22)  
+🔗 E-mail : [jih020202@gmail.com](mailto:jih020202@gmail.com)  
 🔗 Subject : ```data-mining``` ```machine-learning``` ```python``` ```data-science```
 
 
